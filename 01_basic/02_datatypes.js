@@ -10,3 +10,14 @@ let name = "Ayush"  ///string
 let age = 19  //int
 let isLoggedIn = false // boolen
 
+///
+////number
+// string  , power , bigint 
+// boolen 
+// null
+// undefined
+// symbol
+  
+
+console.log(typeof null) ////object 
+console.log(typeof undefined) //// undefined
